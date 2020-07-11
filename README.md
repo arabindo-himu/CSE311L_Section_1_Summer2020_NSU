@@ -143,7 +143,6 @@ Will Update Later
 
 
 </html>
-</br>
 
 ## License 📄
 _This work is dual-licensed under MIT and CC BY-NC-SA 4.0. You can choose between one of them if you use this work._
